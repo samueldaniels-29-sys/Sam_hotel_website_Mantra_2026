@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#eef7ff"/>
+  <rect x="0" y="0" width="400" height="170" fill="#dceefb"/>
+  <rect x="40" y="40" width="320" height="100" fill="#fff" rx="6"/>
+  <rect x="60" y="60" width="100" height="60" fill="#cfe6f5"/>
+  <rect x="180" y="60" width="100" height="60" fill="#cfe6f5"/>
+  <!-- two beds -->
+  <rect x="30" y="180" width="150" height="75" rx="10" fill="#0f4c81"/>
+  <rect x="40" y="190" width="130" height="40" rx="8" fill="#ffffff"/>
+  <rect x="45" y="160" width="40" height="35" rx="8" fill="#ffe7a3"/>
+
+  <rect x="210" y="180" width="150" height="75" rx="10" fill="#0f4c81"/>
+  <rect x="220" y="190" width="130" height="40" rx="8" fill="#ffffff"/>
+  <rect x="225" y="160" width="40" height="35" rx="8" fill="#ffe7a3"/>
+</svg>
