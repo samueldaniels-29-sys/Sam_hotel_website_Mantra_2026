@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#eef7ff"/>
+  <rect x="0" y="0" width="400" height="180" fill="#dceefb"/>
+  <!-- table -->
+  <ellipse cx="200" cy="200" rx="130" ry="30" fill="#0a355b"/>
+  <ellipse cx="200" cy="190" rx="130" ry="30" fill="#1780a1"/>
+  <!-- plates -->
+  <circle cx="140" cy="188" r="22" fill="#ffffff"/>
+  <circle cx="260" cy="188" r="22" fill="#ffffff"/>
+  <circle cx="200" cy="170" r="18" fill="#ffe7a3"/>
+  <!-- glasses -->
+  <rect x="115" y="150" width="6" height="30" fill="#0f4c81"/>
+  <rect x="280" y="150" width="6" height="30" fill="#0f4c81"/>
+  <!-- pendant lights -->
+  <line x1="120" y1="0" x2="120" y2="90" stroke="#0a355b" stroke-width="3"/>
+  <circle cx="120" cy="100" r="14" fill="#ffb703"/>
+  <line x1="280" y1="0" x2="280" y2="90" stroke="#0a355b" stroke-width="3"/>
+  <circle cx="280" cy="100" r="14" fill="#ffb703"/>
+</svg>

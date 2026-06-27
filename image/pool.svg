@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#bfe8ff"/>
+  <rect x="0" y="0" width="400" height="150" fill="#dceefb"/>
+  <!-- pool -->
+  <rect x="20" y="160" width="360" height="110" rx="12" fill="#1780a1"/>
+  <rect x="40" y="180" width="320" height="70" rx="8" fill="#3aa9d6"/>
+  <!-- sun -->
+  <circle cx="340" cy="60" r="28" fill="#ffe7a3"/>
+  <!-- loungers -->
+  <rect x="60" y="255" width="70" height="14" rx="6" fill="#0a355b"/>
+  <rect x="150" y="255" width="70" height="14" rx="6" fill="#0a355b"/>
+  <!-- umbrella -->
+  <polygon points="280,210 320,210 300,180" fill="#ffb703"/>
+  <rect x="298" y="210" width="4" height="40" fill="#0a355b"/>
+</svg>
